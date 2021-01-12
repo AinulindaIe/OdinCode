@@ -1,0 +1,2 @@
+#Syntax is "<filename>" OR "<filepath>" followed by a "\n"(implicit)
+#Wildcards such as "*" is also allowed.
